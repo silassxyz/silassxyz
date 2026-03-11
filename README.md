@@ -12,7 +12,7 @@
 <a href = "https://www.linkedin.com/in/silas-milch-57623a277/" align= "center" target= "_blank" >
   <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenjam%25C3%25ADn-o-73634a22b?style=for-the-badge&logo=linkedin&label=LINKEDIN" align="center" />
 </a>
- <img src="https://komarev.com/ghpvc/?username=SilasMilch&&style=for-the-badge" align="center" />
+ <img src="https://komarev.com/ghpvc/?username=silassxyz&&style=for-the-badge" align="center" />
 </div>
 
 <!---
