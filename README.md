@@ -1,4 +1,4 @@
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=silassxyz<&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Silas<&theme=dracula&show_icons=true&hide_border=true&count_private=true">
 <ul>
   <li>Hi, I’m @Silas, I'm a Electrical and Information Technology student at the RWTH Aachen, Germany.</li>
   <li>I’m interested in math, algorithms and AI.</li>
@@ -12,7 +12,7 @@
 <a href = "https://www.linkedin.com/in/silas-milch-57623a277/" align= "center" target= "_blank" >
   <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenjam%25C3%25ADn-o-73634a22b?style=for-the-badge&logo=linkedin&label=LINKEDIN" align="center" />
 </a>
- <img src="https://komarev.com/ghpvc/?username=silassxyz&&style=for-the-badge" align="center" />
+ <img src="https://komarev.com/ghpvc/?username=Silas&&style=for-the-badge" align="center" />
 </div>
 
 <!---
