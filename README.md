@@ -1,4 +1,4 @@
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SilasMilch&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=silassxyz<&theme=dracula&show_icons=true&hide_border=true&count_private=true">
 <ul>
   <li>Hi, I’m @Silas, I'm a Electrical and Information Technology student at the RWTH Aachen, Germany.</li>
   <li>I’m interested in math, algorithms and AI.</li>
