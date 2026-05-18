@@ -1,4 +1,3 @@
-```html
 <img
   align="right"
   width="50%"
@@ -33,4 +32,4 @@
     src="https://komarev.com/ghpvc/?username=silassxyz&style=for-the-badge"
   />
 </div>
-```
+
