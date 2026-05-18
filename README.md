@@ -1,8 +1,11 @@
+
 <img
   align="right"
   width="50%"
-  src="https://github-readme-stats.vercel.app/api?username=silassxyz&theme=dracula&show_icons=true&hide_border=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=silassxyz&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"
 />
+
+
 
 <ul>
   <li>
