@@ -1,21 +1,36 @@
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=silassxyz&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+```html
+<img
+  align="right"
+  width="50%"
+  src="https://github-readme-stats.vercel.app/api?username=silassxyz&theme=dracula&show_icons=true&hide_border=true&count_private=true"
+/>
+
 <ul>
-  <li>Hi, I’m @Silas, I'm a Electrical and Information Technology student at the RWTH Aachen, Germany.</li>
-  <li>I’m interested in math, algorithms and AI.</li>
-  <li>I’m currently doing a lot of work for university, but also I do competitive programming and rice my Arch whenever I have free time.</li>
+  <li>
+    Hi, I’m Silas, an Electrical and Information Technology student at
+    RWTH Aachen University, Germany.
+  </li>
+  <li>I’m interested in mathematics, algorithms and AI.</li>
+  <li>
+    I’m currently doing a lot of university work, but I also enjoy
+    competitive programming and customizing my Arch setup whenever I have free time.
+  </li>
 </ul>
 
-<br/>
+<br />
 
+<div align="center">
+  <a
+    href="https://www.linkedin.com/in/silas-milch-57623a277/"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
+    />
+  </a>
 
-<div align="center" style="flex-direction:row">
-<a href = "https://www.linkedin.com/in/silas-milch-57623a277/" align= "center" target= "_blank" >
-  <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenjam%25C3%25ADn-o-73634a22b?style=for-the-badge&logo=linkedin&label=LINKEDIN" align="center" />
-</a>
- <img src="https://komarev.com/ghpvc/?username=silassxyz&&style=for-the-badge" align="center" />
+  <img
+    src="https://komarev.com/ghpvc/?username=silassxyz&style=for-the-badge"
+  />
 </div>
-
-<!---
-BenjaminOyarzun17/BenjaminOyarzun17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
