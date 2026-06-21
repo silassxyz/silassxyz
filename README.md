@@ -1,21 +1,18 @@
-
 <img
   align="right"
   width="50%"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=silassxyz&show_icons=true&theme=dracula&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=silassxyz&show_icons=true&theme=dracula&hide_border=true"
+  alt="Silas's GitHub stats"
 />
-
-
-
 
 <ul>
   <li>
-    Hi, I’m Silas, an Electrical and Information Technology student at
+    Hi, I'm Silas, an Electrical and Information Technology student at
     RWTH Aachen University, Germany.
   </li>
-  <li>I’m interested in mathematics, algorithms and AI.</li>
+  <li>I'm interested in mathematics, algorithms and AI.</li>
   <li>
-    I’m currently doing a lot of university work, but I also enjoy
+    I'm currently doing a lot of university work, but I also enjoy
     competitive programming and customizing my Arch setup whenever I have free time.
   </li>
 </ul>
@@ -23,23 +20,20 @@
 <br />
 
 <div align="center">
-  
-    href="https://www.linkedin.com/in/silas-milch-57623a277/"
-    target="_blank"
-  >
+  <a href="https://www.linkedin.com/in/silas-milch-57623a277/" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
+      src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
-  
-    href="https://your-website-url.com"
-    target="_blank"
-  >
+  <a href="https://your-website-url.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Website"
     />
   </a>
   <img
     src="https://komarev.com/ghpvc/?username=silassxyz&style=for-the-badge"
+    alt="Profile views"
   />
 </div>
