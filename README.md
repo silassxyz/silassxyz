@@ -30,7 +30,7 @@
   
   <a href="https://silasmilch.eu" target="_blank">
   <img
-    src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Website"
   />
 </a>
