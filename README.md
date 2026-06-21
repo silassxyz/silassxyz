@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/silas-milch-57623a277/" target="_blank">
+  <a href="https://www.linkedin.com/in/silas-milch-57623a277/" target="personal website">
     <img
       src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
