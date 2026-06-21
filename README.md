@@ -13,7 +13,7 @@
   <li>I'm interested in mathematics, algorithms and AI.</li>
   <li>
     I'm currently doing a lot of university work, but I also enjoy
-    competitive programming and customizing my Arch setup whenever I have free time.
+    competitive programming
   </li>
 </ul>
 
