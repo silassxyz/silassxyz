@@ -20,20 +20,24 @@
 <br />
 
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/silas-milch-57623a277/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-  <a href="https://your-website-url.com" target="_blank">
+  
+  <a href="https://silasmilch.eu" target="_blank">
     <img
       src="[https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge)"
       alt="Website"
     />
   </a>
+  
   <img
     src="https://komarev.com/ghpvc/?username=silassxyz&style=for-the-badge"
     alt="Profile views"
   />
+  
 </div>
