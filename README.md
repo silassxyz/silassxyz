@@ -18,7 +18,6 @@
 </ul>
 
 <br />
-
 <div align="center">
   <a href="https://www.linkedin.com/in/silas-milch-57623a277/" target="personal website">
     <img
