@@ -35,5 +35,4 @@
     src="https://komarev.com/ghpvc/?username=silassxyz&style=for-the-badge"
     alt="Profile views"
   />
-  
 </div>
