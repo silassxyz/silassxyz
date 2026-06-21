@@ -23,13 +23,14 @@
 <br />
 
 <div align="center">
-  <a
+  
     href="https://www.linkedin.com/in/silas-milch-57623a277/"
     target="_blank"
   >
     <img
       src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
     />
+  </a>
   
     href="https://silasmilch.eu"
     target="_blank"
