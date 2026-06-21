@@ -32,7 +32,7 @@
     />
   </a>
   
-    href="https://silasmilch.eu"
+    href="https://your-website-url.com"
     target="_blank"
   >
     <img
