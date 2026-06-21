@@ -1,7 +1,7 @@
 <img
   align="right"
   width="50%"
-  src="https://github-readme-stats.vercel.app/api?username=silassxyz&show_icons=true&theme=dracula&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=silassxyz&show_icons=true&theme=nightowl&hide_border=true"
   alt="Silas's GitHub stats"
 />
 
