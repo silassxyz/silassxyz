@@ -27,14 +27,12 @@
       alt="LinkedIn"
     />
   </a>
-  
   <a href="https://silasmilch.eu" target="_blank">
   <img
     src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Website"
   />
 </a>
-  
   <img
     src="https://komarev.com/ghpvc/?username=silassxyz&style=for-the-badge"
     alt="Profile views"
