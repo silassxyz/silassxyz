@@ -30,19 +30,14 @@
     <img
       src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
     />
-  </a>
-
-  </a>
   
-  href="https://silasmilch.eu"
-  target="_blank"
->
-  <img
-    src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=googlechrome&logoColor=white"
-  />
-</a>
-  
-
+    href="https://silasmilch.eu"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=googlechrome&logoColor=white"
+    />
+  </a>
   <img
     src="https://komarev.com/ghpvc/?username=silassxyz&style=for-the-badge"
   />
