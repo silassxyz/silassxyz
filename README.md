@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle">
 
 - Hi, I'm Silas, an Electrical and Information Technology student at RWTH Aachen University, Germany.
 - I'm interested in mathematics, algorithms and AI.
