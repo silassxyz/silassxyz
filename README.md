@@ -9,7 +9,7 @@
 </td>
 <td width="45%" valign="top">
 
-![Silas's GitHub Stats](DEIN_STATS_BILD_LINK_HIER)
+![GitHub Stats](https://ghstats.dev/api/card?username=silassxyz)
 
 </td>
 </tr>
