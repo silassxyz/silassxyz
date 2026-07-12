@@ -1,3 +1,21 @@
+<table>
+<tr>
+<td width="55%" valign="top">
+
+- Hi, I'm Silas, an Electrical and Information Technology student at RWTH Aachen University, Germany.
+- I'm interested in mathematics, algorithms and AI.
+- I'm currently doing a lot of university work, but I also enjoy competitive programming
+
+</td>
+<td width="45%" valign="top">
+
+![Silas's GitHub Stats](DEIN_STATS_BILD_LINK_HIER)
+
+</td>
+</tr>
+</table>
+
+
 ![GitHub Stats](https://ghstats.dev/api/card?username=silassxyz)
 <ul>
   <li>
