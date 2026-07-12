@@ -15,20 +15,6 @@
 </tr>
 </table>
 
-
-![GitHub Stats](https://ghstats.dev/api/card?username=silassxyz)
-<ul>
-  <li>
-    Hi, I'm Silas, an Electrical and Information Technology student at
-    RWTH Aachen University, Germany.
-  </li>
-  <li>I'm interested in mathematics, algorithms and AI.</li>
-  <li>
-    I'm currently doing a lot of university work, but I also enjoy
-    competitive programming
-  </li>
-</ul>
-
 <br clear="both" />
 <div align="center">
   <a href="https://www.linkedin.com/in/silas-milch-57623a277/" target="_blank">
