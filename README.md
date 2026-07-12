@@ -1,12 +1,4 @@
-<img
-  align="right"
-  width="50%"
-  src="https://github-readme-stats.vercel.app/api?username=silassxyz&show_icons=true&theme=nightowl&hide_border=true"
-  alt="Silas's GitHub stats"
-/>
-
 ![GitHub Stats](https://ghstats.dev/api/card?username=silassxyz)
-
 <ul>
   <li>
     Hi, I'm Silas, an Electrical and Information Technology student at
