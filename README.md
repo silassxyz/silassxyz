@@ -5,6 +5,8 @@
   alt="Silas's GitHub stats"
 />
 
+![GitHub Stats](https://ghstats.dev/api/card?username=silassxyz)
+
 <ul>
   <li>
     Hi, I'm Silas, an Electrical and Information Technology student at
