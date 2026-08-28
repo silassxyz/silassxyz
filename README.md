@@ -12,7 +12,7 @@
 </td>
 <td width="45%" valign="top">
 
-![GitHub Stats](https://ghstats.dev/api/card?username=silassxyz)
+![GitHub Stats](https://ghstats.dev/api/card?username=silasxyz)
 
 </td>
 </tr>
